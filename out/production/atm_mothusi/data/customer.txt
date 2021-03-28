@@ -1,0 +1,4 @@
+cid, id, firstName, lastName, dateOfBirth, gender, email, address 
+2021001, 8811026266183, Nomfundo, Mahlalela, 1988-11-11, FEMALE, nomfundo@gmail.com, Durban PMB 
+2021002, 9105046266183, Mothusi, Molorane, 1991-05-04, MALE, molorane2@gmail.com, Lakeside Soweto 
+2021003, 20209029402492, Shoki, Makhanatha, 2000-05-05, FEMALE, nomfundo@gmail.com, Durban PMB 
